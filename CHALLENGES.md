@@ -1,12 +1,5 @@
 # Connexions
 
-## Istari
-
-1. Curumo • Blanc
-2. Alatar & Pallando • Bleu
-3. Aiwendil • Brun
-4. Olorin (Gandalf) • Gris / Blanc
-
 ## Villes grivoises
 
 1. Condom
@@ -136,3 +129,31 @@
 2. Guerre
 3. Famine
 4. Mort
+
+## Istari
+
+1. Curumo • Blanc
+2. Alatar & Pallando • Bleu
+3. Aiwendil • Brun
+4. Olorin (Gandalf) • Gris / Blanc
+
+## Présidents français avec le nom de leur femme
+
+1. Georges Cahour
+2. Valéry Sauvage de Brantes
+3. François Gouze
+4. Jacques Chodron de Courcel
+
+## The spanish inquisition!
+
+1. Nobody
+2. Expects
+3. The
+4. Spanish inquisition!
+
+## Saint Pétersbourg
+
+1. Saint Petersbourg
+2. Petrograd
+3. Leningrad
+4. Saint Petersbourg
