@@ -157,3 +157,31 @@
 2. Petrograd
 3. Leningrad
 4. Saint Petersbourg
+
+## Fleuves traversant des capitales
+
+1. Potomac
+2. Congo
+3. Nil
+4. Danube
+
+## Versions de windows
+
+1. 98
+2. ME
+3. 2000
+4. XP
+
+## Fibonacci
+
+1. 3
+2. 5
+3. 8
+4. 13
+
+## Hommes dans l'espace
+
+1. 4: Titov
+2. 3: Grissom
+3. 2: Shepard
+4. 1: Gagarine
