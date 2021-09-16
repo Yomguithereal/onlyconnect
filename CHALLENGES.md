@@ -42,6 +42,64 @@
 3. Risienne
 4. Moche non plus
 
+## Trous
+
+1. Noir
+2. Du cru
+3. Champenois
+4. Normand
+
+## Aptonymes
+
+1. Henri Poincaré
+2. Edmond Pottier
+3. Mickael Gelabale
+4. Benjamin Millepied
+
+## Coin-coin
+
+1. Islande: bra bra
+2. Danemark: rap rap
+3. Grèce: κουάκ κουάκ
+4. U.K.: quack quack
+
+## Usages de l'urine
+
+1. Faire de la poudre noire
+2. Bain de bouche romain
+3. Epaissir la laine
+4. Marquer son territoire
+
+## Métalettres
+
+1. Six consonnes
+2. Trois? Quatre? voyelles
+3. Trois syllabes
+4. Sept lettres
+
+## Couleur du sang
+
+1. Coccinelle: jaune
+2. Cafard: incolore
+3. Spock: vert
+4. Vous: rouge
+
+## Les sept merveiles
+
+1. 1/7 Irak
+2. 2/7 Turquie
+3. 2/7 Egypte
+4. 2/7 Grèce
+
+## Plique
+
+1. Ex
+2. Con
+3. Ré
+4. Su
+
+---
+
 # Sequences
 
 ## Twilight
